@@ -42,7 +42,8 @@ The goal of these projects was to transition traditional hardware-based relay lo
 
 ### How to View
 **Quick View (Recommended):** Simply navigate to the /Screenshots folder in this repository. I have provided high-resolution images of the Ladder Diagrams for each project so you can review the logic directly in your browser.
-or
+
+OR
 1. Download and install **Siemens LOGO! Soft Comfort**.
 2. Clone this repository: `git clone https://github.com/YourUsername/ProjectName.git`
 3. Open the `.lld` files to view the logic or run the integrated simulation.
