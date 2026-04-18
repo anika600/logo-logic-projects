@@ -28,7 +28,6 @@ The goal of these projects was to transition traditional hardware-based relay lo
 * **Software:** Siemens LOGO! Soft Comfort V8.x
 * **Hardware Target:** Siemens LOGO! 8 Logic Modules
 * **Language:** Ladder Diagram (LAD)
-* **Methodology:** Offline Simulation & Logic Verification
 
 ## 📂 File Structure
 * `/*.lld`: Original LOGO! Soft Comfort project files.
@@ -38,7 +37,6 @@ The goal of these projects was to transition traditional hardware-based relay lo
 ## 📈 Key Learnings
 * Developed a "Fail-Safe" design mindset (ensuring systems default to a safe state during failure).
 * Mastered I/O mapping and internal memory management in a PLC environment.
-* Applied Siemens industry standards for automation documentation and simulation.
 
 ---
 
