@@ -1,7 +1,3 @@
-# Industrial Automation Projects: Siemens LOGO! Logic Modules
-
-This repository contains a collection of industrial control solutions designed and simulated during my internship at **Siemens**. These projects utilize the **Siemens LOGO! Soft Comfort** environment to solve real-world automation challenges using Ladder Diagram (LAD) logic.
-
 ## 🚀 Overview
 The goal of these projects was to transition traditional hardware-based relay logic into programmable, fail-safe software solutions. Each project emphasizes **safety interlocking**, **fault diagnostics**, and **process efficiency**.
 
